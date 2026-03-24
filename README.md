@@ -1,3 +1,4 @@
+📌 Sobre o Projeto
 Este projeto utiliza o dataset Heart Failure Prediction Dataset para prever a probabilidade de um paciente sofrer uma insuficiência cardíaca com base em 11 variáveis clínicas (como idade, colesterol, pressão arterial, entre outras).
 
 🧪 Algoritmos Utilizados
